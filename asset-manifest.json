@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JeyPey/lesson/static/css/main.aa38ac68.css",
+    "main.js": "/JeyPey/lesson/static/js/main.661a7017.js",
+    "index.html": "/JeyPey/lesson/index.html",
+    "main.aa38ac68.css.map": "/JeyPey/lesson/static/css/main.aa38ac68.css.map",
+    "main.661a7017.js.map": "/JeyPey/lesson/static/js/main.661a7017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa38ac68.css",
+    "static/js/main.661a7017.js"
+  ]
+}
